@@ -1,0 +1,10 @@
+This is the first age of Chapter 1
+
+
+This our book
+
+whole name: page1.ext
+
+Created a new project
+Created a new package called chapter_1
+Created a new text called page1
