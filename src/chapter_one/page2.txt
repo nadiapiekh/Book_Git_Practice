@@ -3,3 +3,5 @@ This is page 2 of Chapter One
 Our second file
 
 Git enabled
+
+Updating the file 2 of Chapter One. Adding new line. 
