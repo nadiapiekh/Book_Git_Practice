@@ -8,3 +8,7 @@ whole name: page1.ext
 Created a new project
 Created a new package called chapter_1
 Created a new text called page1
+
+Hello, today is September 29th, 2021
+Wednesday
+Weather is nice. 
