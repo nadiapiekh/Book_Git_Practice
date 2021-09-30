@@ -4,4 +4,15 @@ Our second file
 
 Git enabled
 
-Updating the file 2 of Chapter One. Adding new line. 
+Updating the file 2 of Chapter One. Adding new line.
+
+UPDATE-JAVA DAY TOMORROW
+LINE 2 AND 3
+LINE 4 AND 5
+LINES 6 AND 7
+
+LINES 10
+
+LINE 11
+
+LINE12
